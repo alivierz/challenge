@@ -2,6 +2,18 @@
 
 # Start the project
 
+You must create a .env file in the root of the project and place the following environment variables
+
+DPOSTGRES_DB =bakuish_challenge
+POSTGRES_USER =bakuish
+POSTGRES_PASSWORD =bakuish
+DB_PORT =5433
+DB_HOST= localhost
+API_KEY=AIzaSyCA-8HjW9_xJLxdzdk4gRsEIzV8sNKbAt0
+PROJECTID=bankuish-29e0a
+
+In addition to that, the json necessary for the Firebase functionalities was attached in the email
+
 Run the npm i to install all the dependencies
 
 In the project there is a .env file to start the project (just for practice purposes)
