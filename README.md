@@ -10,6 +10,8 @@ In the terminal, go to the docker folder and create a "bankuis" image with the c
 
 From dbeaver or another database manager, connect with the credentials that appear in the docker-compose and run the script that is in the same docker folder which is a .sql file
 
+End with comand npm run start:dev
+
 ## API Reference
 
 #### Register User
